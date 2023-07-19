@@ -3,7 +3,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import logo from '/public/logo.png';
-import footer from '../lib/footer';
 import Image from 'next/image';
 
 import { AiFillGithub, AiFillTwitterCircle, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
